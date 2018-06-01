@@ -1,0 +1,16 @@
+PODS:
+  - LXToolsModules (0.1.0)
+
+DEPENDENCIES:
+  - LXToolsModules (from `../`)
+
+EXTERNAL SOURCES:
+  LXToolsModules:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LXToolsModules: b3e3b9480a5e62eb94371f4b20e6315fdfe160bf
+
+PODFILE CHECKSUM: 01eddb4100a13289ad6f51526a71fce4762a4ad9
+
+COCOAPODS: 1.3.1

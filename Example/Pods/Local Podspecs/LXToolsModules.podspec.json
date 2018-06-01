@@ -1,0 +1,22 @@
+{
+  "name": "LXToolsModules",
+  "version": "0.1.0",
+  "summary": "A short description of LXToolsModules.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ccsxlx@163.com/LXToolsModules",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ccsxlx@163.com": "lei.xiangxiang@yinchengku.com"
+  },
+  "source": {
+    "git": "https://github.com/Rayshawn/LXModules.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LXToolsModules/Classes/**/*"
+}
