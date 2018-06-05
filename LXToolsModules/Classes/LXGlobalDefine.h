@@ -34,8 +34,6 @@
 
 // 是否为iPhone X
 #define DEVICE_IS_IPHONEX (SCREEN_WIDTH == 375.f && SCREEN_HEIGHT == 812.f ? YES : NO)
-// navigation bar 高度
-#define DEVICE_NAVBAR_HEIGHT 44.0f
 // status bar height
 #define DEVICE_STATUS_BAR_HEIGHT (DEVICE_IS_IPHONEX ? 44.f : 20.f)
 // 系统的导航栏高度
